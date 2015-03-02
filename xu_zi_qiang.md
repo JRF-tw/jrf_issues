@@ -273,11 +273,11 @@
             <ul>
               <li>沒有逮捕前，打電話給徐自強母親</li>
               <li>死刑確定後，寫自白書給徐自強母親</li>
-              <ul>
-                <li><strong>黃春棋：徐自強沒有參與</strong>
-                  <br /> 死刑確定後，向徐自強母親表示徐自強沒有參與
-                </li>
-              </ul>
+            </ul>
+          <li><strong>黃春棋：徐自強沒有參與</strong>
+            <br /> 死刑確定後，向徐自強母親表示徐自強沒有參與
+          </li>
+        </ol>
       </td>
       <td>
         不符合法律的共同被告自白：
@@ -305,6 +305,7 @@
 --
 延伸閱讀：
 
+* [正義徐來，自強無罪](https://www.jrf.org.tw/newjrf/epaper/files/epaper20150302.html)
 * [2012.12.02第52法庭／房仲綁架撕票案　主嫌皆死刑定讞](https://www.youtube.com/watch?v=Jd6Y9lNf3c8)
 
   [![房仲綁架撕票案　主嫌皆死刑定讞](http://img.youtube.com/vi/Jd6Y9lNf3c8/0.jpg)](http://www.youtube.com/watch?v=Jd6Y9lNf3c8)

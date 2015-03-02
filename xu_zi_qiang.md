@@ -1,6 +1,7 @@
 # 徐自強案
 
 > 這十六年來，我都一直在做同一件事，就是不停的證明自己無罪。
+> 
 > 徐自強，2012年5月，於司改會
 
 ## 徐自強案，發生什麼事？
@@ -209,7 +210,7 @@
     <tr>
       <td><strong>刑事訴訟法第158-3條</strong>
         <br />證人未具結者，證詞不得作為證據</td>
-      <td>
+      <td rowspan="3">
         <p>更六審：
           <br />黃春棋拒絕回答，<strong>沒有具結(2009年9月8日)</strong>
           <br />；陳憶隆拒絕回答，<strong>沒有具結(2009年9月29日)</strong>
@@ -228,12 +229,10 @@
     <tr>
       <td><strong>釋字第582號解釋</strong>
         <br />證人於審判中應具結並接受被告詰問，其陳述始可採用</td>
-      <td> </td>
     </tr>
     <tr>
       <td><strong>刑事訴訟法第181條</strong>
         <br />證人恐因陳述致自己受刑事追訴或處罰者，得拒絕證言</td>
-      <td> </td>
     </tr>
   </tbody>
 </table>
@@ -303,5 +302,10 @@
   </tbody>
 </table>
 
-https://www.youtube.com/watch?v=Jd6Y9lNf3c8
+--
+延伸閱讀：
+
+* [2012.12.02第52法庭／房仲綁架撕票案　主嫌皆死刑定讞](https://www.youtube.com/watch?v=Jd6Y9lNf3c8)
+
+  [![房仲綁架撕票案　主嫌皆死刑定讞](http://img.youtube.com/vi/Jd6Y9lNf3c8/0.jpg)](http://www.youtube.com/watch?v=Jd6Y9lNf3c8)
 

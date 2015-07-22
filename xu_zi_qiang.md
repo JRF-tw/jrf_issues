@@ -310,3 +310,4 @@
 
   [![房仲綁架撕票案　主嫌皆死刑定讞](http://img.youtube.com/vi/Jd6Y9lNf3c8/0.jpg)](http://www.youtube.com/watch?v=Jd6Y9lNf3c8)
 
+* [監察院調查報告](http://www.jrf.org.tw/newjrf/attach01/hsu.pdf)
